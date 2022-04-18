@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/andre002wp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anggitwr&theme=tokyonight"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anggitwr&theme=tokyonight"/>
 </a>
 </p>
