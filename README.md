@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-hello i'm Anggit Wahyu, i'm an **Android Developer** 📱, currently living in 🇮🇩 Indonesia
+hello i'm Anggit Wahyu, currently living in 🇮🇩 Indonesia
 
 **languages**
 <br>
